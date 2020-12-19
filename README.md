@@ -3,14 +3,18 @@
 A new Flutter application.
 
 ## Getting Started
+**Output**  
+<img src="screenshots/output.jpg" width="250">  
 
-This project is a starting point for a Flutter application.
+**Single card using a container widget**  
+<img src="screenshots/1.PNG" width="300">  
 
-A few resources to get you started if this is your first Flutter project:
+**Column layout**    
+<img src="screenshots/2.png" width="300">  
+<img src="screenshots/3.png" width="300">  
+
+
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [online documentation](https://flutter.dev/docs)
